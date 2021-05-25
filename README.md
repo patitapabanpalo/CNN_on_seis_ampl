@@ -6,7 +6,7 @@ The code for even patches are cnn_patch_<patch_size>
 The code for odd patches (point analysis) are cnn_point_<patch_size>
 
 Name of code: CNN_on_seis_ampl.
-Developer: Patitapaban Palo, Department of Electrical Engineering, IIT Kharagpur, West Bengal India.
+Developer: Patitapaban Palo, Department of Electrical Engineering, IIT Kharagpur, West Bengal, India.
 Contact address: email: patitapabanpalo@gmail.com, mob: +91-9437904634.
 Year first available: 2021.
 Hardware required: RAM(>16GB) and GPU(optional).
