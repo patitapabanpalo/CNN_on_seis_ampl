@@ -7,7 +7,7 @@ The code for odd patches (point analysis) are cnn_point_<patch_size>
 
 Name of code: CNN_on_seis_ampl.
 Developer: Patitapaban Palo, Department of Electrical Engineering, IIT Kharagpur, West Bengal, India.
-Contact address: email: patitapabanpalo@gmail.com, mob: +91-9437904634.
+Contact address: email: patitapabanpalo@gmail.com, tel: +91-9437904634.
 Year first available: 2021.
 Hardware required: RAM(>16GB) and GPU(optional).
 Software required: Python 3.7.4 and PyTorch 1.3.1
